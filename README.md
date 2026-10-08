@@ -29,4 +29,3 @@ Q7_Q8_Revenue_Analysis.png – Revenue analysis results
 
 Conclusion
 This project helped me practice using SQL to clean, analyze, and understand real-world data and turn the results into simple business insights.
-
